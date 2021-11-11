@@ -1,0 +1,10 @@
+C:\Users\jcngh\Documents\c#_practice\word_counter\word_frequency\obj\Debug\netcoreapp3.1\word_frequency.csproj.AssemblyReference.cache
+C:\Users\jcngh\Documents\c#_practice\word_counter\word_frequency\obj\Debug\netcoreapp3.1\word_frequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcngh\Documents\c#_practice\word_counter\word_frequency\obj\Debug\netcoreapp3.1\word_frequency.AssemblyInfoInputs.cache
+C:\Users\jcngh\Documents\c#_practice\word_counter\word_frequency\obj\Debug\netcoreapp3.1\word_frequency.AssemblyInfo.cs
+C:\Users\jcngh\Documents\c#_practice\word_counter\word_frequency\obj\Debug\netcoreapp3.1\word_frequency.csproj.CoreCompileInputs.cache
+C:\Users\jcngh\Documents\c#_practice\word_counter\word_frequency\bin\Debug\netcoreapp3.1\word_frequency.deps.json
+C:\Users\jcngh\Documents\c#_practice\word_counter\word_frequency\bin\Debug\netcoreapp3.1\word_frequency.dll
+C:\Users\jcngh\Documents\c#_practice\word_counter\word_frequency\bin\Debug\netcoreapp3.1\word_frequency.pdb
+C:\Users\jcngh\Documents\c#_practice\word_counter\word_frequency\obj\Debug\netcoreapp3.1\word_frequency.dll
+C:\Users\jcngh\Documents\c#_practice\word_counter\word_frequency\obj\Debug\netcoreapp3.1\word_frequency.pdb
